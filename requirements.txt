@@ -1,4 +1,4 @@
-below appdirs==1.4.4
+appdirs==1.4.4
 atomicwrites==1.4.0
 blis==0.7.11
 catalogue==2.0.10
