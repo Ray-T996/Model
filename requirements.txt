@@ -21,7 +21,7 @@ py4j==0.10.9.7
 pywin32==305.1; platform_system == "Windows"
 # pycurl can cause issues due to system-level dependencies; remove or include only if necessary
 # pycurl==7.45.2
-streamlit==latest  # Ensure Streamlit is installed
+streamlit==1.24.2  # Ensure Streamlit is installed
 
 # Additional dependencies, update as needed:
 pandas==2.1.0  # Include for data manipulation, update version if needed
