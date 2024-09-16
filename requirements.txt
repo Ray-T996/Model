@@ -13,7 +13,6 @@ jsonpointer==2.1
 langcodes==3.4.0
 language_data==1.2.0
 marisa-trie==1.2.0
-mkl-service==2.4.0
 murmurhash==1.0.10
 preshed==3.0.9
 protobuf==3.20.3
